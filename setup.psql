@@ -1,0 +1,25 @@
+INSERT INTO "Movie" (title, release_date) 
+VALUES 
+    ('Movie 1', '2022-01-01'),
+    ('Movie 2', '2022-02-01'),
+    ('Movie 3', '2022-03-01'),
+    ('Movie 4', '2022-04-01'),
+    ('Movie 5', '2022-05-01'),
+    ('Movie 6', '2022-06-01'),
+    ('Movie 7', '2022-07-01'),
+    ('Movie 8', '2022-08-01'),
+    ('Movie 9', '2022-09-01'),
+    ('Movie 10', '2022-10-01');
+
+INSERT INTO "Actor" (id, name, age, gender) 
+VALUES 
+    (1, 'John Doe', 30, 'Male'),
+    (2, 'Jane Smith', 25, 'Female'),
+    (3, 'Michael Johnson', 40, 'Male'),
+    (4, 'Emily Brown', 35, 'Female'),
+    (5, 'Alex Taylor', 28, 'Non-Binary'),
+    (6, 'David Lee', 45, 'Male'),
+    (7, 'Jessica Wang', 32, 'Female'),
+    (8, 'Matthew Harris', 27, 'Male'),
+    (9, 'Sophia Martinez', 22, 'Female'),
+    (10, 'William Anderson', 38, 'Male');
