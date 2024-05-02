@@ -7,6 +7,7 @@ This project provides a dedicated platform for practicing and showcasing a range
 ## Project Motivation
 This project serves as a culmination of the skills I acquired throughout the FSND nanodegree program. It's an opportunity to apply concepts such as data modeling, API design, authentication, authorization, and cloud deployment in a real-world scenario.
 ## APP URL
+https://fsnd-4ry4.onrender.com/
 ## Getting Started
 
 The project adheres to the PEP 8 style guide and follows common best practices, including:
